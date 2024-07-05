@@ -1,9 +1,8 @@
-```markdown
-# House Price Prediction
+## House Price Prediction
 
 This repository contains code to predict house prices using a linear regression model. The dataset used for training and testing includes various features about the houses, and the model is trained to predict the sale prices based on these features.
 
-## Installation
+# Installation
 
 Before running the code, ensure you have the following packages installed:
 
